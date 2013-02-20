@@ -162,6 +162,11 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+     <Compile Include="Assets\WebRequest\Model.cs" />
+     <Compile Include="Assets\WebRequest\ModelHandler.cs" />
+     <Compile Include="Assets\WebRequest\ModelWebServices.cs" />
+     <Compile Include="Assets\WebRequest\WebRequest.cs" />
+     <Compile Include="Assets\WebRequest\WebService.cs" />
      <Compile Include="Assets\iTween\Plugins\iTween.cs" />
      <Compile Include="Assets\iTween\Sample\MoveSample.cs" />
      <Compile Include="Assets\iTween\Sample\RotateSample.cs" />
