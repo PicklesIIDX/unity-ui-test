@@ -1,0 +1,32 @@
+{
+	"menutitle": "test",
+	"panels": 
+	[
+		{
+			"title":"PanelOne",
+			"x":100,
+			"y":100,
+			"buttons":
+			[
+				{
+					"title":"ButtonNext",
+					"x":100,
+					"y":100
+				}
+			]
+		},
+		{
+			"title":"PanelTwo",
+			"x":100,
+			"y":100,
+			"buttons":
+			[
+				{
+					"title":"ButtonPrevious",
+					"x":100,
+					"y":100
+				}
+			]
+		}
+	]
+}
